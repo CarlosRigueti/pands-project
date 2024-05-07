@@ -34,11 +34,8 @@ I used [openincolab](https://openincolab.com/) to generate the following clickab
 ### References
 [1] About READMEs. Availible in: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes. [Accessed 02 May 2024].
 
-[2] Iris dataset. Availible in: https://archive.ics.uci.edu/dataset/53/iris. [Accessed 02 May 2024].
-
-[3] Basic writing and formatting syntax. Availible in: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github basic-writing-and-formatting-syntax. [Accessed 02 May 2024].
-
-[4] The iris data set: In search of the source of virginica. Availible in: https://www semanticscholar.org/paper/The-iris-data-set%3A-In-search-of-the-source-of-Unwin-Kleinman 4599862ea877863669a6a8e63a3c707a787d5d7e. [Accessed 02 May 2024].
+[2] Fischer's Iris dataset. Availible in: https://archive.ics.uci.edu/dataset/53/iris. [Accessed 02 May 2024].
+[3] The iris data set: In search of the source of virginica. Availible in: https://www semanticscholar.org/paper/The-iris-data-set%3A-In-search-of-the-source-of-Unwin-Kleinman 4599862ea877863669a6a8e63a3c707a787d5d7e. [Accessed 02 May 2024].
 
 
 #### Author: Carlos Rigueti
