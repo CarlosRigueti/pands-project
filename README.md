@@ -16,10 +16,10 @@ It is [Iris](https://github.com/CarlosRigueti/pands-project/blob/main/iris.csv) 
 ### Getting Started:
 
 ***
-I used [openincolab](https://openincolab.com/) to generate the following clickable link. It opens the [penguins.ipynb](<a target="_blank" href="https://colab.research.google.com/github/CarlosRigueti/pands-project">
+I used [openincolab](https://openincolab.com/) to generate the following clickable link. It opens the [penguins.ipynb](https://raw.githubusercontent.com/CarlosRigueti/pands-project/main/analysis.ipynb)
+</a> Jupyter Notebook in [Google Colab](<a target="_blank" href="https://colab.research.google.com/github/CarlosRigueti/pands-project">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>)
-</a> Jupyter Notebook in [Google Colab](https://colab.research.google.com/)
 ***
 
 ***
