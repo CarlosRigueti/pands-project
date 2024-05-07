@@ -56,7 +56,8 @@ This dataset is licensed under a [Creative Commons Attribution 4.0 International
 
 [3] The iris data set: In search of the source of virginica. Availible in: [https://www semanticscholar.org/paper The-iris-data-set%3A-In-search-of-the-source-of-Unwin-Kleinman4599862ea877863669a6a8e63a3c707a787d5d7e.](https://academic.oup.com/jrssig/article/18/6/26/7038520?login=false)[Accessed 07 May 2024].
 
-[4] [Kaggle:](ttps://www.kaggle.com/) 
+[4] Kaggle:[https://www.kaggle.com/] [Accessed 07 May 2024].
+[5] Scikit-learn: [https://scikit-learn.org/stable/] [Accessed 07 May 2024].
 
 #### Author: Carlos Rigueti
 
