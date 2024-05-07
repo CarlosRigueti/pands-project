@@ -44,6 +44,8 @@ Link: Kaggle - Iris Dataset
 * **GitHub:**
 Many repositories on GitHub contain the Iris dataset, often as part of educational materials or example code.
 You can search GitHub for repositories containing the Iris dataset using keywords like "Iris dataset".
+
+This dataset is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) (CC BY 4.0) license.
 ***
 
 
