@@ -17,7 +17,8 @@ It is [Iris](https://github.com/CarlosRigueti/pands-project/blob/main/iris.csv) 
 ### Getting Started:
 ***
 
-I used [openincolab](https://openincolab.com/) to generate the following clickable link. It opens the ['analysis.ipynb'](https://raw.githubusercontent.com/CarlosRigueti/pands-project/main/analysis.ipynb) </a> Jupyter Notebook in [Google Colab](https://colab.research.google.com/)
+I used [openincolab](https://openincolab.com/) to generate the following clickable link. It opens the ['analysis.ipynb'](https://github.com/CarlosRigueti/pands-project/blob/main/analysis.ipynb) 
+</a> Jupyter Notebook in [Google Colab](https://colab.research.google.com/)
 
 
 <a target="_blank" href="https://colab.research.google.com/github/CarlosRigueti/pands-project">
