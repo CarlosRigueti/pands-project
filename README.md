@@ -27,7 +27,23 @@ I used [openincolab](https://openincolab.com/) to generate the following clickab
 
 
 ***
-### Overview: 
+### License:
+
+The Iris dataset is a widely used and publicly available dataset that is commonly considered to be in the public domain. The Iris dataset is a widely used and publicly available dataset that is commonly considered to be in the public domain.Users are typically encouraged to cite the original source of the dataset (e.g., Fisher, R.A. "The use of multiple measurements in taxonomic problems" Annals of Eugenics, 7, Part II, 179-188 (1936)).
+
+* **UCI Machine Learning Repository:**
+The Iris dataset is hosted on the UCI Machine Learning Repository, a popular resource for machine learning datasets.
+Link: UCI Machine Learning Repository - Iris Dataset
+* **scikit-learn:**
+The Iris dataset is included as one of the built-in datasets in the scikit-learn library, a popular machine learning library for Python.
+You can load the Iris dataset directly from scikit-learn using the load_iris() function.
+Link: scikit-learn - Iris Dataset
+* **Kaggle:**
+The Iris dataset is available on Kaggle, a platform for data science competitions and datasets.
+Link: Kaggle - Iris Dataset
+* **GitHub:**
+Many repositories on GitHub contain the Iris dataset, often as part of educational materials or example code.
+You can search GitHub for repositories containing the Iris dataset using keywords like "Iris dataset".
 ***
 
 
