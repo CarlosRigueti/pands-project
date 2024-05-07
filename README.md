@@ -11,7 +11,7 @@ It is [Iris](https://github.com/CarlosRigueti/pands-project/blob/main/iris.csv) 
 
 ![Iris](https://github.com/CarlosRigueti/pands-project/assets/159485788/e79c61f7-7b01-4dec-aa58-662734067af9)
 
-[Fischer's Iris Data](https://archive.ics.uci.edu/dataset/53/iris) UCI Machine Learning Repository: Iris Data Set. [2]
+[Fischer's Iris Data](https://archive.ics.uci.edu/dataset/53/iris) UCI Machine Learning Repository: Iris Data Set. [3]
 
 
 ### Getting Started:
