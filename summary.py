@@ -121,29 +121,32 @@ with open("summary_iris.txt", "w") as file:
 
     file.write("DATA VISUALIZATION\n\n\n")
 
+    file.write("plt.bar.\n\n")
+    file.write("Fig. 2 - Number of Iris Flowers by Species\n\n")
+
     file.write("plt.figure.\n\n")
-    file.write("Fig. 2 - Relationship\n\n")
+    file.write("Fig. 3 - Relationship between Sepal Length and Width\n\n")
 
     file.write("sns.load_dataset.\n\n")
-    file.write("Fig. 3 - Scatterplot\n\n")
+    file.write("Fig. 4 - Scatterplot of Sepal Length vs Sepal Width by Species\n\n")
 
-    file.write("Histogram of Iris Flowers by Species.\n\n")
-    file.write("Fig. 4, 5, 6, 7 - Histogram by feature\n\n")
+    file.write("Figure of each Histogram.\n\n")
+    file.write("Fig. 5, 6, 7, 8 - Histogram\n\n")
 
-    file.write("Boxplot of Iris Flowers by Species.\n\n")
-    file.write("Fig. 4 - Boxplot\n\n")
+    file.write("plt.plot.\n\n")
+    file.write("Fig. 9 - Iris Dataset\n\n")
 
-    file.write("Correlation Heatmap of the data set.\n\n")
-    file.write("Fig. 5 - Heatmap\n\n")
+    file.write("plt.subplots.\n\n")
+    file.write("Fig. 10 - Iris Dataset\n\n")
 
-    file.write("Correlation Heatmap of the data set by Species.\n\n")
-    file.write("Fig. 6 - Heatmap by Species\n\n")
+    file.write("Boxplot of Iris Dataset Features by Species.\n\n")
+    file.write("Fig. 11 - Boxplot of Iris Datase\n\n")
 
-    file.write("Scatter plot of Iris Flowers by Species.\n\n")
-    file.write("Fig. 7 - Scatter plot by Species\n\n")
-
-    file.write("Pair plot of Iris Flowers by Species.\n\n")
-    file.write("Fig. 8 - Pair plot by Species \n\n\n")
+    file.write("Correlation Heatmap by Species.\n\n")
+    file.write("Fig. 12 - Heatmap by Species \n\n\n")
+    
+    file.write("sns.pairplot.\n\n")
+    file.write("Fig. 13 - pairplot \n\n\n")
 
     # Writing End.
 

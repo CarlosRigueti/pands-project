@@ -13,6 +13,7 @@ Fig. 1 - Iris
 
 Iris
 Fischer's Iris Data UCI Machine Learning Repository: Iris Data Set.
+[2]
 
 Imports:
 This project required some libraries to be imported to load, analyze and visualize the data, such as:
@@ -160,40 +161,40 @@ Name: count, dtype: int64
 summary_stats = df.shape
 (150, 5)
 
-VISUALIZATION DATA
+DATA VISUALIZATION
 
 
-Bar Chart.
+plt.bar.
 
-Fig. 1 - Bar Chart
+Fig. 2 - Number of Iris Flowers by Species
 
-Histogram of Iris Flowers.
+plt.figure.
 
-Fig. 2 - Histogram
+Fig. 3 - Relationship between Sepal Length and Width
 
-Histogram of Iris Flowers by Species.
+sns.load_dataset.
 
-Fig. 3 - Histogram by Species
+Fig. 4 - Scatterplot of Sepal Length vs Sepal Width by Species
 
-Boxplot of Iris Flowers by Species.
+Figure of each Histogram.
 
-Fig. 4 - Boxplot
+Fig. 5, 6, 7, 8 - Histogram
 
-Correlation Heatmap of the data set.
+plt.plot.
 
-Fig. 5 - Heatmap
+Fig. 9 - Iris Dataset
 
-Correlation Heatmap of the data set by Species.
+plt.subplots.
 
-Fig. 6 - Heatmap by Species
+Fig. 10 - Iris Dataset
 
-Scatter plot of Iris Flowers by Species.
+Boxplot of Iris Dataset Features by Species.
 
-Fig. 7 - Scatter plot by Species
+Fig. 11 - Boxplot of Iris Datase
 
-Pair plot of Iris Flowers by Species.
+Correlation Heatmap by Species.
 
-Fig. 8 - Pair plot by Species 
+Fig. 12 - Heatmap by Species 
 
 
 End
