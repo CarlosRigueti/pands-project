@@ -184,17 +184,18 @@ plt.plot.
 
 Fig. 9 - Iris Dataset
 
-plt.subplots.
-
-Fig. 10 - Iris Dataset
-
 Boxplot of Iris Dataset Features by Species.
 
-Fig. 11 - Boxplot of Iris Datase
+Fig. 10 - Boxplot of Iris Datase
 
 Correlation Heatmap by Species.
 
-Fig. 12 - Heatmap by Species 
+Fig. 11 - Heatmap by Species 
+
+
+sns.pairplot.
+
+Fig. 12 - pairplot 
 
 
 End

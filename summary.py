@@ -136,17 +136,14 @@ with open("summary_iris.txt", "w") as file:
     file.write("plt.plot.\n\n")
     file.write("Fig. 9 - Iris Dataset\n\n")
 
-    file.write("plt.subplots.\n\n")
-    file.write("Fig. 10 - Iris Dataset\n\n")
-
     file.write("Boxplot of Iris Dataset Features by Species.\n\n")
-    file.write("Fig. 11 - Boxplot of Iris Datase\n\n")
+    file.write("Fig. 10 - Boxplot of Iris Datase\n\n")
 
     file.write("Correlation Heatmap by Species.\n\n")
-    file.write("Fig. 12 - Heatmap by Species \n\n\n")
+    file.write("Fig. 11 - Heatmap by Species \n\n\n")
     
     file.write("sns.pairplot.\n\n")
-    file.write("Fig. 13 - pairplot \n\n\n")
+    file.write("Fig. 12 - pairplot \n\n\n")
 
     # Writing End.
 
