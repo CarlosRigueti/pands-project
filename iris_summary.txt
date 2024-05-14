@@ -24,20 +24,19 @@ The dataset imported from Palmer Penguins and saved into a file .csv, named as p
 # Load the dataset into a DataFrame
 df = pd.read_csv('iris.csv')
 print (df)
-     sepal_length  sepal_width  petal_length  petal_width         species
-0             5.1          3.5           1.4          0.2     Iris-setosa
-1             4.9          3.0           1.4          0.2     Iris-setosa
-2             4.7          3.2           1.3          0.2     Iris-setosa
-3             4.6          3.1           1.5          0.2     Iris-setosa
-4             5.0          3.6           1.4          0.2     Iris-setosa
-..            ...          ...           ...          ...             ...
-145           6.7          3.0           5.2          2.3  Iris-virginica
-146           6.3          2.5           5.0          1.9  Iris-virginica
-147           6.5          3.0           5.2          2.0  Iris-virginica
-148           6.2          3.4           5.4          2.3  Iris-virginica
-149           5.9          3.0           5.1          1.8  Iris-virginica
-
-[150 rows x 5 columns]
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 150 entries, 0 to 149
+Data columns (total 5 columns):
+ #   Column        Non-Null Count  Dtype  
+---  ------        --------------  -----  
+ 0   sepal_length  150 non-null    float64
+ 1   sepal_width   150 non-null    float64
+ 2   petal_length  150 non-null    float64
+ 3   petal_width   150 non-null    float64
+ 4   species       150 non-null    object 
+dtypes: float64(4), object(1)
+memory usage: 6.0+ KB
+None
 
 # Inspect Data:
 The inspect data process involves examining and understanding the structure, content, and characteristics of a dataset. It provides users with valuable insights to comprehend the dataset and make informed decisions about data preprocessing, analysis, and modeling. Here's what inspect data typically provides for users to understand the dataset:
