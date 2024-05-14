@@ -157,3 +157,42 @@ Name: count, dtype: int64
 summary_stats = df.shape
 (150, 5)
 
+VISUALIZATION DATA
+
+
+Bar Chart.
+
+Fig. 1 - Bar Chart
+
+Histogram of Iris Flowers.
+
+Fig. 2 - Histogram
+
+Histogram of Iris Flowers by Species.
+
+Fig. 3 - Histogram by Species
+
+Boxplot of Iris Flowers by Species.
+
+Fig. 4 - Boxplot
+
+Correlation Heatmap of the data set.
+
+Fig. 5 - Heatmap
+
+Correlation Heatmap of the data set by Species.
+
+Fig. 6 - Heatmap by Species
+
+Scatter plot of Iris Flowers by Species.
+
+Fig. 7 - Scatter plot by Species
+
+Pair plot of Iris Flowers by Species.
+
+Fig. 8 - Pair plot by Species 
+
+
+End
+last commit on 20/05/2024.
+
