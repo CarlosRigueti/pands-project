@@ -7,9 +7,12 @@ The Iris flower data set is a multivariate data set introduced by the British st
 About this project:
 It is Iris dataset.
 
+About Iris.
+
+Fig. 1 - Iris
+
 Iris
 Fischer's Iris Data UCI Machine Learning Repository: Iris Data Set.
-[2]
 
 Imports:
 This project required some libraries to be imported to load, analyze and visualize the data, such as:

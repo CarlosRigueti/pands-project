@@ -51,6 +51,8 @@ with open("summary_iris.txt", "w") as file:
     file.write("The Iris flower data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper 'The use of multiple measurements in taxonomic problems'. It is sometimes called Anderson's Iris data set because Edgar Anderson collected the data to quantify the morphologic variation of Iris flowers of three related species.\n\n")
     file.write("About this project:\n")
     file.write("It is Iris dataset.\n\n")
+    file.write("About Iris.\n\n")
+    file.write("Fig. 1 - Iris\n\n")
     file.write("Iris\n")
     file.write("Fischer's Iris Data UCI Machine Learning Repository: Iris Data Set.\n")
     file.write("[2]\n\n")
@@ -114,21 +116,19 @@ with open("summary_iris.txt", "w") as file:
     file.write("summary_stats = df.shape\n")
     file.write(str(df.shape) + "\n\n")
     
-    # Write the histogram section
     
-    
-    # Writing Visualization Data.
+    # Writing Data Visualization.
 
-    file.write("VISUALIZATION DATA\n\n\n")
+    file.write("DATA VISUALIZATION\n\n\n")
 
-    file.write("Bar Chart.\n\n")
-    file.write("Fig. 1 - Bar Chart\n\n")
+    file.write("plt.figure.\n\n")
+    file.write("Fig. 2 - Relationship\n\n")
 
-    file.write("Histogram of Iris Flowers.\n\n")
-    file.write("Fig. 2 - Histogram\n\n")
+    file.write("sns.load_dataset.\n\n")
+    file.write("Fig. 3 - Scatterplot\n\n")
 
     file.write("Histogram of Iris Flowers by Species.\n\n")
-    file.write("Fig. 3 - Histogram by Species\n\n")
+    file.write("Fig. 4, 5, 6, 7 - Histogram by feature\n\n")
 
     file.write("Boxplot of Iris Flowers by Species.\n\n")
     file.write("Fig. 4 - Boxplot\n\n")
