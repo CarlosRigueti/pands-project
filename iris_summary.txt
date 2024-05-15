@@ -60,7 +60,7 @@ IMPORTS:
 
 #-------------------------------------------------------------------------------------------
 
-The dataset imported from Palmer Penguins and saved into a file .csv, named as penguins.csv in the repository. The .csv file is using the library
+The dataset imported from Iris Dataset and saved into a file .csv, named as iris.csv in the repository. The .csv file is using the library
 pandas as df = pd.read_csv 
 
 #-------------------------------------------------------------------------------------------
@@ -329,55 +329,54 @@ print (correlation_species)
 
 #-------------------------------------------------------------------------------------------
 
-VISUALIZATION DATA
+DATA VISUALIZATION:
+#-------------------------------------------------------------------------------------------
+
+# plt.bar - Bar Chart.
+
+Fig. 2 - # Plotting the bar chart
 
 #-------------------------------------------------------------------------------------------
 
-Bar Chart.
+# plt.figure - Relationship
 
-Fig. 1 - Bar Chart
-
-#-------------------------------------------------------------------------------------------
-
-Histogram of Iris Flowers.
-
-Fig. 2 - Histogram
+Fig. 3 -"Relationship between Sepal Length and Width"
 
 #-------------------------------------------------------------------------------------------
 
-Histogram of Iris Flowers by Species.
+# Load the Iris dataset from Seaborn
 
-Fig. 3 - Histogram by Species
-
-#-------------------------------------------------------------------------------------------
-
-Boxplot of Iris Flowers by Species.
-
-Fig. 4 - Boxplot
+Fig. 4 - Scatterplot of Sepal Length vs Sepal Width by Species
 
 #-------------------------------------------------------------------------------------------
 
-Correlation Heatmap of the data set.
+# Histogram
 
-Fig. 5 - Heatmap
-
-#-------------------------------------------------------------------------------------------
-
-Correlation Heatmap of the data set by Species.
-
-Fig. 6 - Heatmap by Species
+Fig. 5, 6, 7, 8  - Histogram of sepal_lenght
 
 #-------------------------------------------------------------------------------------------
 
-Scatter plot of Iris Flowers by Species.
+# Simple plot
 
-Fig. 7 - Scatter plot by Species
+Fig. 9 - Iris Data Set
 
 #-------------------------------------------------------------------------------------------
 
-Pair plot of Iris Flowers by Species.
+# Load the Iris dataset from Seaborn
 
-Fig. 8 - Pair plot by Species 
+Fig. 10 - Boxplot of Sepal Length by Species
+
+#-------------------------------------------------------------------------------------------
+
+# Generate a heatmap
+
+Fig. 11 - Correlation Heatmap by Species
+
+#-------------------------------------------------------------------------------------------
+
+# Pair plot to visualize relationships between variables.
+
+Fig. 12 - relationships between variables
 
 
 #-------------------------------------------------------------------------------------------
