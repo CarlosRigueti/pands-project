@@ -101,20 +101,20 @@ with open("iris_summary.txt", "wt") as file:
     file.write("print (correlation)\n\n")
     file.write(str(df.corr(method='pearson', numeric_only=True)) + "\n\n")   
     
-    file.write("Extract the data from the "species" column..\n\n")
+    file.write("Extract the data from the \"species\" column.\n\n")
     file.write("df.value_counts(['species'])\n")
     file.write("print (species)\n\n")
-    file.write(str(df.value_counts(['species']))"\n\n")
+    file.write(str(df.value_counts('species')) + "\n\n")
     
     file.write("Check the size of your DataFrame.\n\n")
     file.write("df.shape\n")
-    file.write("print (df.shape)\n\n")
-    file.write(str(df.shape)"\n\n")
+    file.write(str(df.shape) + "\n\n")
+
     
     file.write("Describe the data set by Species.\n\n")
     file.write("describe_species = df.groupby('species').describe().transpose()\n")
     file.write("print (describe_species)\n\n")
-    file.write(str(df.groupby('species').describe().transpose())"\n\n")
+    file.write(str(df.groupby('species').describe().transpose()) + "\n\n")
     
     # Writing Visualization Data.
 
