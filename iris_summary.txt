@@ -352,7 +352,7 @@ Fig. 03 - Scatterplot of Sepal Length vs Sepal Width by Species
 
 # Histogram
 
-Fig. 04, 05, 06, 07  - Histogram of sepal_lenght
+Fig. 04, 05, 06, 07 - Histogram of sepal_lenght
 
 #-------------------------------------------------------------------------------------------
 
@@ -364,19 +364,19 @@ Fig. 08 - Iris Data Set
 
 # Load the Iris dataset from Seaborn
 
-Fig. 10 - Boxplot of Sepal Length by Species
+Fig. 09 - Boxplot of Sepal Length by Species
 
 #-------------------------------------------------------------------------------------------
 
 # Generate a heatmap
 
-Fig. 09 - Correlation Heatmap by Species
+Fig. 10 - Correlation Heatmap by Species
 
 #-------------------------------------------------------------------------------------------
 
 # Pair plot to visualize relationships between variables.
 
-Fig. 10 - relationships between variables
+Fig. 11 - Relationships between variables
 
 
 #-------------------------------------------------------------------------------------------

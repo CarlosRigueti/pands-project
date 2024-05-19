@@ -110,7 +110,6 @@ with open("iris_summary.txt", "wt") as file:
     file.write("df.shape\n")
     file.write(str(df.shape) + "\n\n")
 
-    
     file.write("Describe the data set by Species.\n\n")
     file.write("describe_species = df.groupby('species').describe().transpose()\n")
     file.write("print (describe_species)\n\n")
@@ -120,29 +119,29 @@ with open("iris_summary.txt", "wt") as file:
 
     file.write("VISUALIZATION DATA\n\n\n")
 
-    file.write("Bar Chart.\n\n")
-    file.write("Fig. 1 - Bar Chart\n\n")
+    file.write("Plotting the bar chart.\n\n")
+    file.write("Fig. 01 - Bar Chart\n\n")
 
-    file.write("Histogram of Iris Flowers.\n\n")
-    file.write("Fig. 2 - Histogram\n\n")
+    file.write("Relationship between Sepal Length and Width.\n\n")
+    file.write("Fig. 02 - Relationship\n\n")
 
-    file.write("Histogram of Iris Flowers by Species.\n\n")
-    file.write("Fig. 3 - Histogram by Species\n\n")
+    file.write("Load the Iris dataset from Seaborn.\n\n")
+    file.write("Fig. 03 - Scatterplot of Sepal Length vs Sepal Width by Species\n\n")
 
-    file.write("Boxplot of Iris Flowers by Species.\n\n")
-    file.write("Fig. 4 - Boxplot\n\n")
+    file.write("Histogram.\n\n")
+    file.write("Fig. 04, 05, 06, 07 - Histogram of sepal_lenght\n\n")
 
-    file.write("Correlation Heatmap of the data set.\n\n")
-    file.write("Fig. 5 - Heatmap\n\n")
+    file.write("Simple plot.\n\n")
+    file.write("Fig. 08 - Iris Data Set\n\n")
 
-    file.write("Correlation Heatmap of the data set by Species.\n\n")
-    file.write("Fig. 6 - Heatmap by Species\n\n")
+    file.write("Load the Iris dataset from Seaborn.\n\n")
+    file.write("Fig. 09 - Boxplot of Sepal Length by Speciess\n\n")
 
-    file.write("Scatter plot of Iris Flowers by Species.\n\n")
-    file.write("Fig. 7 - Scatter plot by Species\n\n")
-
-    file.write("Pair plot of Iris Flowers by Species.\n\n")
-    file.write("Fig. 8 - Pair plot by Species \n\n\n")
+    file.write("Generate a heatmap.\n\n")
+    file.write("Fig. 10 - Correlation Heatmap by Species\n\n")
+    
+    file.write("Pair plot to visualize relationships between variables.\n\n")
+    file.write("Fig. 11 - Relationships between variables\n\n")
 
     # Writing End.
 
