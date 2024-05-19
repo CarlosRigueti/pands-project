@@ -31,7 +31,7 @@ About Iris.
 
   _______________________________
  |                               |
- |     Fig. 1 - Iris             |
+ |   Image -  Iris             |
  |_______________________________|
 
 
@@ -334,31 +334,31 @@ DATA VISUALIZATION:
 
 # plt.bar - Bar Chart.
 
-Fig. 2 - # Plotting the bar chart
+Fig. 01 - # Plotting the bar chart
 
 #-------------------------------------------------------------------------------------------
 
 # plt.figure - Relationship
 
-Fig. 3 -"Relationship between Sepal Length and Width"
+Fig. 02 -"Relationship between Sepal Length and Width"
 
 #-------------------------------------------------------------------------------------------
 
 # Load the Iris dataset from Seaborn
 
-Fig. 4 - Scatterplot of Sepal Length vs Sepal Width by Species
+Fig. 03 - Scatterplot of Sepal Length vs Sepal Width by Species
 
 #-------------------------------------------------------------------------------------------
 
 # Histogram
 
-Fig. 5, 6, 7, 8  - Histogram of sepal_lenght
+Fig. 04, 05, 06, 07  - Histogram of sepal_lenght
 
 #-------------------------------------------------------------------------------------------
 
 # Simple plot
 
-Fig. 9 - Iris Data Set
+Fig. 08 - Iris Data Set
 
 #-------------------------------------------------------------------------------------------
 
@@ -370,13 +370,13 @@ Fig. 10 - Boxplot of Sepal Length by Species
 
 # Generate a heatmap
 
-Fig. 11 - Correlation Heatmap by Species
+Fig. 09 - Correlation Heatmap by Species
 
 #-------------------------------------------------------------------------------------------
 
 # Pair plot to visualize relationships between variables.
 
-Fig. 12 - relationships between variables
+Fig. 10 - relationships between variables
 
 
 #-------------------------------------------------------------------------------------------
